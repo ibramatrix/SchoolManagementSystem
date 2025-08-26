@@ -1,0 +1,54 @@
+# ---- Visual Studio / C# .gitignore ----
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# Visual Studio cache files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet packages
+*.nupkg
+*.snupkg
+*.nuspec
+*.psmdcp
+packages/
+*.dll
+*.exe
+
+# Other files
+*.dbmdl
+*.bak
+*.ldf
+*.mdf
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Publish artifacts
+*.Publish.xml
+publish/
+
+# Resharper / Rider
+_ReSharper*/
+*.DotSettings.user
+
+# Visual Studio Code settings
+.vscode/
+
+# Windows thumbnail cache
+Thumbs.db
+ehthumbs.db

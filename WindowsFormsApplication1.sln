@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{255FB7B1-1A8B-4A44-85BE-E1569ECE7EA2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Universal Setup", "Universal Setup\Universal Setup.vdproj", "{59C925A0-DAC6-4AAC-916A-67A6B2D3B3D5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Universal School System Installer", "Universal School System Installer\Universal School System Installer.vdproj", "{F77EF20E-2222-4398-8632-4C18AFC118E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{255FB7B1-1A8B-4A44-85BE-E1569ECE7EA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{255FB7B1-1A8B-4A44-85BE-E1569ECE7EA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{255FB7B1-1A8B-4A44-85BE-E1569ECE7EA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{255FB7B1-1A8B-4A44-85BE-E1569ECE7EA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59C925A0-DAC6-4AAC-916A-67A6B2D3B3D5}.Debug|Any CPU.ActiveCfg = Debug
+		{59C925A0-DAC6-4AAC-916A-67A6B2D3B3D5}.Release|Any CPU.ActiveCfg = Release
+		{F77EF20E-2222-4398-8632-4C18AFC118E6}.Debug|Any CPU.ActiveCfg = Debug
+		{F77EF20E-2222-4398-8632-4C18AFC118E6}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
