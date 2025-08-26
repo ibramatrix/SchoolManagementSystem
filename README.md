@@ -78,3 +78,34 @@ It helps schools digitize their processes and improve efficiency.
 ### 📊 Reports  
 ![Reports Screenshot](screenshots/reports.png)
 
+
+
+## ▶️ Usage
+- Login as **Admin/Staff**  
+- Manage students, teachers, classes, and results  
+- Generate reports and view analytics  
+- Print records when required  
+
+---
+
+## 🛠 Technologies Used
+- **C# (WinForms)** – Desktop Application  
+- **.NET Framework** – Backend Logic  
+- **SQL Server / LocalDB** – Database  
+
+---
+
+## 🤝 Contributing
+Contributions are welcome!  
+
+1. Fork the repo  
+2. Create a new branch (`feature-xyz`)  
+3. Commit your changes  
+4. Push to your branch  
+5. Open a Pull Request  
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+
