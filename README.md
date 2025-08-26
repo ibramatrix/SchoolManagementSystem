@@ -57,3 +57,18 @@ It helps schools digitize their processes and improve efficiency.
 3.Restore dependencies and build the project
 
 4.Run the application
+
+## 🖼 Screenshots  
+
+### 🏠 Dashboard  
+![Dashboard Screenshot](screenshots/dashboard.png)  
+
+### 🎓 Student Management  
+![Student Management Screenshot](screenshots/student_management.png)  
+
+### 👩‍🏫 Teacher Management  
+![Teacher Management Screenshot](screenshots/teacher_management.png)  
+
+### 📊 Reports  
+![Reports Screenshot](screenshots/reports.png)
+
