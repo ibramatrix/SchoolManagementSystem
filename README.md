@@ -64,19 +64,19 @@ It helps schools digitize their processes and improve efficiency.
 ![Dashboard Screenshot](screenshots/Dashboard.PNG)  
 
 ### 🎓 Student Management  
-![Student Management Screenshot](screenshots/student_management.png)  
+![Student Management Screenshot](screenshots/student_management.PNG)  
 
 ### 👩‍🏫 Teacher Management  
-![Teacher Management Screenshot](screenshots/teacher_management.png)  
+![Teacher Management Screenshot](screenshots/teacher_management.PNG)  
 
 ### ☝️ Fingerprint Management
-![Fingerprint Panel Screenshot](screenshots/fingerprint_management.png)  
+![Fingerprint Panel Screenshot](screenshots/fingerprint_management.PNG)  
 
 ### 📝 Time-Table Management
 ![Time-Table Panel Screenshot](screenshots/timetable_management.png)  
 
 ### 📊 Reports  
-![Reports Screenshot](screenshots/reports.png)
+![Reports Screenshot](screenshots/reports.PNG)
 
 
 
