@@ -61,7 +61,7 @@ It helps schools digitize their processes and improve efficiency.
 ## 🖼 Screenshots  
 
 ### 🏠 Dashboard  
-![Dashboard Screenshot](screenshots/Dashboard.png)  
+![Dashboard Screenshot](screenshots/Dashboard.PNG)  
 
 ### 🎓 Student Management  
 ![Student Management Screenshot](screenshots/student_management.png)  
