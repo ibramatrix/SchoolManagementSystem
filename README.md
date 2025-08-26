@@ -69,6 +69,12 @@ It helps schools digitize their processes and improve efficiency.
 ### 👩‍🏫 Teacher Management  
 ![Teacher Management Screenshot](screenshots/teacher_management.png)  
 
+### ☝️ Fingerprint Management
+![Fingerprint Panel Screenshot](screenshots/teacher_management.png)  
+
+### 📝 Time-Table Management
+![Time-Table Panel Screenshot](screenshots/teacher_management.png)  
+
 ### 📊 Reports  
 ![Reports Screenshot](screenshots/reports.png)
 
